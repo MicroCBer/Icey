@@ -1,0 +1,10 @@
+channels=[
+    {
+        channel:"885555565760237598",
+        filename:"qmods-1.17.1.json"
+    }
+]
+
+interval=600 // Seconds
+
+DC_API.limit=100

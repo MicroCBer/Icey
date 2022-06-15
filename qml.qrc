@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>uninstall-line.png</file>
+        <file>uninstall-line.svg</file>
+        <file>CenteredDialog.qml</file>
+        <file>Serverpage.qml</file>
+        <file>MainPage.qml</file>
+    </qresource>
+</RCC>

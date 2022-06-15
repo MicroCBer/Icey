@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fancy-log": "^2.0.0",
+    "md5": "^2.3.0",
+    "node-fetch": "^3.2.0"
+  },
+  "name": "bsmgspider",
+  "version": "1.0.0",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MicroBlock",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {},
+  "description": ""
+}
